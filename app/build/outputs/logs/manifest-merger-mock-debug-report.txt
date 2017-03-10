@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml
+		INJECTED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml
+		INJECTED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml
+		INJECTED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:6:5-38:19
+MERGED from [Tea99-B:commonlibs:unspecified] F:\OSGitProject\Tea99-B\commonlibs\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:cardview-v7:23.3.0] C:\Users\Administrator\.android\build-cache\f3f85d07dac616e732478aaf28265e67fc709097\output\AndroidManifest.xml:22:5-20
+MERGED from [com.zhy:autolayout:1.4.1] C:\Users\Administrator\.android\build-cache\aa8b6ad40aa3da735c91ea28930c440b0aa8dd38\output\AndroidManifest.xml:11:5-14:19
+MERGED from [com.tbruyelle.rxpermissions:rxpermissions:0.7.0] C:\Users\Administrator\.android\build-cache\d0e82a838dc4899f0ed711ceea069dd8f919592d\output\AndroidManifest.xml:10:5-15:19
+MERGED from [com.jakewharton.timber:timber:4.1.2] C:\Users\Administrator\.android\build-cache\0b40a61f271afd5bcd53dd7bcd3a3a6658eacdfc\output\AndroidManifest.xml:8:5-20
+MERGED from [com.supercwn.superrecycleview:superlibrary:1.2.0] C:\Users\Administrator\.android\build-cache\9c5d9e69691e601431d63c1965a138b904cb2430\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:design:24.0.0] C:\Users\Administrator\.android\build-cache\e6c3c9e8fffc8181101bb93d65b3f48cb494846f\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.0] C:\Users\Administrator\.android\build-cache\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.0] C:\Users\Administrator\.android\build-cache\f25a27e408239a79a598c33ef46cf0352c9f7fc6\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.0] C:\Users\Administrator\.android\build-cache\7d38ba4a201afa3e30e1032befebedfcc3c443b4\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.0] C:\Users\Administrator\.android\build-cache\b49f18a715019f1dca3f6f41d1892dd132a601f7\output\AndroidManifest.xml:25:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] C:\Users\Administrator\.android\build-cache\20325c9e269b781ee3de7ff70da361801a4e201d\output\AndroidManifest.xml:28:5-57:19
+	android:label
+		ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:11:9-35
+	android:allowBackup
+		ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:7:9-32
+activity#com.delta.smt.MainActivity
+ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:15:9-22:20
+	android:screenOrientation
+		ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:17:13-50
+	android:name
+		ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.delta.smt.ui.login.LoginActivity
+ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:25:9-27:53
+	android:screenOrientation
+		ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:27:13-50
+	android:name
+		ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:26:13-51
+activity#com.delta.smt.StartActivity
+ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:30:9-32:53
+	android:screenOrientation
+		ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:32:13-50
+	android:name
+		ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:31:13-42
+activity#com.delta.smt.ui.brands.BrandListActivity
+ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:34:9-36:53
+	android:screenOrientation
+		ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:36:13-50
+	android:name
+		ADDED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml:35:13-56
+uses-sdk
+INJECTED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [Tea99-B:commonlibs:unspecified] F:\OSGitProject\Tea99-B\commonlibs\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:23.3.0] C:\Users\Administrator\.android\build-cache\f3f85d07dac616e732478aaf28265e67fc709097\output\AndroidManifest.xml:20:5-43
+MERGED from [com.zhy:autolayout:1.4.1] C:\Users\Administrator\.android\build-cache\aa8b6ad40aa3da735c91ea28930c440b0aa8dd38\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\Administrator\.android\build-cache\2c88b93a9a43d62d01f2b04f7a34b17211d51a36\output\AndroidManifest.xml:5:5-43
+MERGED from [io.reactivex:rxandroid:1.1.0] C:\Users\Administrator\.android\build-cache\6c47649dc87f4114ecc35ee9b031629214e1a883\output\AndroidManifest.xml:19:5-43
+MERGED from [com.tbruyelle.rxpermissions:rxpermissions:0.7.0] C:\Users\Administrator\.android\build-cache\d0e82a838dc4899f0ed711ceea069dd8f919592d\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.jakewharton.timber:timber:4.1.2] C:\Users\Administrator\.android\build-cache\0b40a61f271afd5bcd53dd7bcd3a3a6658eacdfc\output\AndroidManifest.xml:6:5-44
+MERGED from [com.supercwn.superrecycleview:superlibrary:1.2.0] C:\Users\Administrator\.android\build-cache\9c5d9e69691e601431d63c1965a138b904cb2430\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:24.0.0] C:\Users\Administrator\.android\build-cache\e6c3c9e8fffc8181101bb93d65b3f48cb494846f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.1.0] C:\Users\Administrator\.android\build-cache\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.1.0] C:\Users\Administrator\.android\build-cache\f25a27e408239a79a598c33ef46cf0352c9f7fc6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.0] C:\Users\Administrator\.android\build-cache\7d38ba4a201afa3e30e1032befebedfcc3c443b4\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.0.0] C:\Users\Administrator\.android\build-cache\3e1b6ebf76ae72aa975a513a4b01cb0b3048d8e4\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.1.0] C:\Users\Administrator\.android\build-cache\b49f18a715019f1dca3f6f41d1892dd132a601f7\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] C:\Users\Administrator\.android\build-cache\20325c9e269b781ee3de7ff70da361801a4e201d\output\AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.1.0] C:\Users\Administrator\.android\build-cache\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml
+		INJECTED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml
+		INJECTED from F:\OSGitProject\Tea99-B\app\src\main\AndroidManifest.xml
+activity#com.tbruyelle.rxpermissions.ShadowActivity
+ADDED from [com.tbruyelle.rxpermissions:rxpermissions:0.7.0] C:\Users\Administrator\.android\build-cache\d0e82a838dc4899f0ed711ceea069dd8f919592d\output\AndroidManifest.xml:11:9-14:75
+	android:launchMode
+		ADDED from [com.tbruyelle.rxpermissions:rxpermissions:0.7.0] C:\Users\Administrator\.android\build-cache\d0e82a838dc4899f0ed711ceea069dd8f919592d\output\AndroidManifest.xml:13:13-43
+	android:theme
+		ADDED from [com.tbruyelle.rxpermissions:rxpermissions:0.7.0] C:\Users\Administrator\.android\build-cache\d0e82a838dc4899f0ed711ceea069dd8f919592d\output\AndroidManifest.xml:14:13-72
+	android:name
+		ADDED from [com.tbruyelle.rxpermissions:rxpermissions:0.7.0] C:\Users\Administrator\.android\build-cache\d0e82a838dc4899f0ed711ceea069dd8f919592d\output\AndroidManifest.xml:12:13-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] C:\Users\Administrator\.android\build-cache\20325c9e269b781ee3de7ff70da361801a4e201d\output\AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] C:\Users\Administrator\.android\build-cache\20325c9e269b781ee3de7ff70da361801a4e201d\output\AndroidManifest.xml:25:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] C:\Users\Administrator\.android\build-cache\20325c9e269b781ee3de7ff70da361801a4e201d\output\AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] C:\Users\Administrator\.android\build-cache\20325c9e269b781ee3de7ff70da361801a4e201d\output\AndroidManifest.xml:26:22-78
+service#com.squareup.leakcanary.internal.HeapAnalyzerService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] C:\Users\Administrator\.android\build-cache\20325c9e269b781ee3de7ff70da361801a4e201d\output\AndroidManifest.xml:29:9-32:45
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] C:\Users\Administrator\.android\build-cache\20325c9e269b781ee3de7ff70da361801a4e201d\output\AndroidManifest.xml:31:13-36
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] C:\Users\Administrator\.android\build-cache\20325c9e269b781ee3de7ff70da361801a4e201d\output\AndroidManifest.xml:32:13-42
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] C:\Users\Administrator\.android\build-cache\20325c9e269b781ee3de7ff70da361801a4e201d\output\AndroidManifest.xml:30:13-80
+service#com.squareup.leakcanary.DisplayLeakService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] C:\Users\Administrator\.android\build-cache\20325c9e269b781ee3de7ff70da361801a4e201d\output\AndroidManifest.xml:33:9-35:39
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] C:\Users\Administrator\.android\build-cache\20325c9e269b781ee3de7ff70da361801a4e201d\output\AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] C:\Users\Administrator\.android\build-cache\20325c9e269b781ee3de7ff70da361801a4e201d\output\AndroidManifest.xml:34:13-70
+activity#com.squareup.leakcanary.internal.DisplayLeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] C:\Users\Administrator\.android\build-cache\20325c9e269b781ee3de7ff70da361801a4e201d\output\AndroidManifest.xml:37:9-49:20
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] C:\Users\Administrator\.android\build-cache\20325c9e269b781ee3de7ff70da361801a4e201d\output\AndroidManifest.xml:39:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] C:\Users\Administrator\.android\build-cache\20325c9e269b781ee3de7ff70da361801a4e201d\output\AndroidManifest.xml:41:13-71
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] C:\Users\Administrator\.android\build-cache\20325c9e269b781ee3de7ff70da361801a4e201d\output\AndroidManifest.xml:40:13-54
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] C:\Users\Administrator\.android\build-cache\20325c9e269b781ee3de7ff70da361801a4e201d\output\AndroidManifest.xml:43:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] C:\Users\Administrator\.android\build-cache\20325c9e269b781ee3de7ff70da361801a4e201d\output\AndroidManifest.xml:42:13-59
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] C:\Users\Administrator\.android\build-cache\20325c9e269b781ee3de7ff70da361801a4e201d\output\AndroidManifest.xml:38:13-80
+activity#com.squareup.leakcanary.internal.RequestStoragePermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] C:\Users\Administrator\.android\build-cache\20325c9e269b781ee3de7ff70da361801a4e201d\output\AndroidManifest.xml:50:9-56:68
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] C:\Users\Administrator\.android\build-cache\20325c9e269b781ee3de7ff70da361801a4e201d\output\AndroidManifest.xml:52:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] C:\Users\Administrator\.android\build-cache\20325c9e269b781ee3de7ff70da361801a4e201d\output\AndroidManifest.xml:54:13-82
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] C:\Users\Administrator\.android\build-cache\20325c9e269b781ee3de7ff70da361801a4e201d\output\AndroidManifest.xml:53:13-54
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] C:\Users\Administrator\.android\build-cache\20325c9e269b781ee3de7ff70da361801a4e201d\output\AndroidManifest.xml:56:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] C:\Users\Administrator\.android\build-cache\20325c9e269b781ee3de7ff70da361801a4e201d\output\AndroidManifest.xml:55:13-59
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] C:\Users\Administrator\.android\build-cache\20325c9e269b781ee3de7ff70da361801a4e201d\output\AndroidManifest.xml:51:13-93

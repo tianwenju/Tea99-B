@@ -1,0 +1,566 @@
+[
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\delta_5.png",
+        "source": "F:\\OSGitProject\\Tea99-B\\commonlibs\\build\\intermediates\\bundles\\default\\res\\drawable\\delta_5.png"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\delta_6.png",
+        "source": "F:\\OSGitProject\\Tea99-B\\commonlibs\\build\\intermediates\\bundles\\default\\res\\drawable\\delta_6.png"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\progress_large_loading.xml",
+        "source": "F:\\OSGitProject\\Tea99-B\\commonlibs\\build\\intermediates\\bundles\\default\\res\\drawable\\progress_large_loading.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\delta_7.png",
+        "source": "F:\\OSGitProject\\Tea99-B\\commonlibs\\build\\intermediates\\bundles\\default\\res\\drawable\\delta_7.png"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\delta_4.png",
+        "source": "F:\\OSGitProject\\Tea99-B\\commonlibs\\build\\intermediates\\bundles\\default\\res\\drawable\\delta_4.png"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\leak_canary_toast_background.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\drawable\\leak_canary_toast_background.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\leak_canary_toast_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\20325c9e269b781ee3de7ff70da361801a4e201d\\output\\res\\drawable\\leak_canary_toast_background.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\delta_7.png",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\OrientalFoodApp\\commonlibs\\unspecified\\res\\drawable\\delta_7.png"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\delta_2.png",
+        "source": "F:\\OSGitProject\\Tea99-B\\commonlibs\\build\\intermediates\\bundles\\default\\res\\drawable\\delta_2.png"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\progress_large_loading.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\BaseProject\\commonlibs\\unspecified\\res\\drawable\\progress_large_loading.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\btn_selector.xml",
+        "source": "F:\\OSGitProject\\Tea99-B\\app\\src\\main\\res\\drawable\\btn_selector.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\progressloading.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.supercwn.superrecycleview\\superlibrary\\1.2.0\\res\\drawable\\progressloading.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\progressbar.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.supercwn.superrecycleview\\superlibrary\\1.2.0\\res\\drawable\\progressbar.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\progress_large_loading.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\OrientalFoodApp\\commonlibs\\unspecified\\res\\drawable\\progress_large_loading.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\delta_1.png",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\OrientalFoodApp\\commonlibs\\unspecified\\res\\drawable\\delta_1.png"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\delta_1.png",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\BaseProject\\commonlibs\\unspecified\\res\\drawable\\delta_1.png"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\delta_7.png",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\BaseProject\\commonlibs\\unspecified\\res\\drawable\\delta_7.png"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\progressloading.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.supercwn.superrecycleview\\superlibrary\\1.2.0\\res\\drawable\\progressloading.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\delta_4.png",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\BaseProject\\commonlibs\\unspecified\\res\\drawable\\delta_4.png"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\leak_canary_toast_background.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\drawable\\leak_canary_toast_background.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\delta_3.png",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\BaseProject\\commonlibs\\unspecified\\res\\drawable\\delta_3.png"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\delta_4.png",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\OrientalFoodApp\\commonlibs\\unspecified\\res\\drawable\\delta_4.png"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\progressbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c5d9e69691e601431d63c1965a138b904cb2430\\output\\res\\drawable\\progressbar.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e6c3c9e8fffc8181101bb93d65b3f48cb494846f\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\progressbar.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.supercwn.superrecycleview\\superlibrary\\1.2.0\\res\\drawable\\progressbar.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\delta_2.png",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\BaseProject\\commonlibs\\unspecified\\res\\drawable\\delta_2.png"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\delta_1.png",
+        "source": "F:\\OSGitProject\\Tea99-B\\commonlibs\\build\\intermediates\\bundles\\default\\res\\drawable\\delta_1.png"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\delta_3.png",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\OrientalFoodApp\\commonlibs\\unspecified\\res\\drawable\\delta_3.png"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e6c3c9e8fffc8181101bb93d65b3f48cb494846f\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\delta_5.png",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\OrientalFoodApp\\commonlibs\\unspecified\\res\\drawable\\delta_5.png"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\delta_6.png",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\BaseProject\\commonlibs\\unspecified\\res\\drawable\\delta_6.png"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\btn_selector.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\src\\main\\res\\drawable\\btn_selector.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\btn_selector.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\src\\main\\res\\drawable\\btn_selector.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\progressloading.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c5d9e69691e601431d63c1965a138b904cb2430\\output\\res\\drawable\\progressloading.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\delta_3.png",
+        "source": "F:\\OSGitProject\\Tea99-B\\commonlibs\\build\\intermediates\\bundles\\default\\res\\drawable\\delta_3.png"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\delta_2.png",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\OrientalFoodApp\\commonlibs\\unspecified\\res\\drawable\\delta_2.png"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\delta_5.png",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\BaseProject\\commonlibs\\unspecified\\res\\drawable\\delta_5.png"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\delta_6.png",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\OrientalFoodApp\\commonlibs\\unspecified\\res\\drawable\\delta_6.png"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cab57d7234149c6865d134532fbc3e8d3a9f0ea\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    }
+]

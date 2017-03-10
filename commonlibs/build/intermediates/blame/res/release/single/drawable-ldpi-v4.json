@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\commonlibs\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\viewstatus_no_network_img_bg.png",
+        "source": "D:\\tianwenjuFile\\BaseProject\\commonlibs\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\viewstatus_no_network_img_bg.png"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\commonlibs\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\viewstatus_loading_faile_image_bg.png",
+        "source": "D:\\tianwenjuFile\\BaseProject\\commonlibs\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\viewstatus_loading_faile_image_bg.png"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\commonlibs\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\viewstatus_no_data_bg.png",
+        "source": "D:\\tianwenjuFile\\BaseProject\\commonlibs\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\viewstatus_no_data_bg.png"
+    }
+]

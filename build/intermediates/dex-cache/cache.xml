@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\longlongago\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.0\support-annotations-24.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\support-annotations-24.1.0_b7d0469280955cea204cd5e37aae467c24180462.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\com.android.support-recyclerview-v7-24.0.0_58e7c8cc4877a57d3abe2eae0506488fb5c08b95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.jakewharton.timber\timber\4.1.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aba9abcfe7ce6d935add115f5ce20254b037d583">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\com.jakewharton.timber-timber-4.1.2_9dcbbcffc62db1ab986c3d07e08712818e44a687.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\butterknife-annotations-8.4.0_3dc1ecd2bcaceeab0973b8c5e93d2131838a6341.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9340c4f95a4e3916c9ad70296e24576743743712">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\com.android.support-appcompat-v7-24.1.0_fc9b82e19e2ffb8994fbfbf71da27de4193ffd1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.zhy\autolayout\1.4.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d673237219d38232f420adfd2e4ca61763c40f64">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\com.zhy-autolayout-1.4.1_a7994a11e9d6a5153577588d050c226869543e67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\javax.inject-1_df772a3240e6000abc06ae67049d4efb72968f8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\libs\internal_impl-24.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\internal_impl-24.1.0_7588563c8690f2aabba12b0bbae5f535205f6de6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\com.android.support-design-24.0.0_b95c3cf75dec041fdc952c2c585ed7d30f82e0cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.supercwn.superrecycleview\superlibrary\1.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="20ca1e4a60ef444423a2af441bea6016d2dcfb07">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\com.supercwn.superrecycleview-superlibrary-1.2.0_0d0a36b8d2ca0b7fe4c8186229e0fb3e1ee21747.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\com.android.support-cardview-v7-23.3.0_abc467d0aa36720c51a0972a49ce5f7d85ac8725.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\com.squareup.haha\haha\2.0.2\fd65b84d12d6adc77ec0e4fcaca623fc391d8679\haha-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fd65b84d12d6adc77ec0e4fcaca623fc391d8679">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\haha-2.0.2_e40789a62fa21fdb0df2a77ccd1d0dbb8856154e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\BaseProject\commonlibs\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="439444ea8c147751159956e3d14b79da41953db5">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\BaseProject-commonlibs-unspecified_77856300db2bc66f3e35c6ef5ddbd346899d355f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\retrofit-2.1.0_cfb140f0cab0d3ffad1399636a7d39e4d2dddefb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\com.squareup.haha\haha\2.0.2\fd65b84d12d6adc77ec0e4fcaca623fc391d8679\haha-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fd65b84d12d6adc77ec0e4fcaca623fc391d8679">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\haha-2.0.2_e40789a62fa21fdb0df2a77ccd1d0dbb8856154e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.4-beta2\6a920fb0d14e5e3b36e37cf33b1eeef2bcce4c92\leakcanary-watcher-1.4-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6a920fb0d14e5e3b36e37cf33b1eeef2bcce4c92">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\leakcanary-watcher-1.4-beta2_48e67ae1a663b16f094fdaa28db240efaf8bca2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.4-beta2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c8472f8e10502af60d0f63ea11eed68bdf690c2">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\com.squareup.leakcanary-leakcanary-android-1.4-beta2_dd8a8a6826dbc67e5f683d6c03c2df2d604dbbda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\okio-1.8.0_cfbc875d0624640ef799ed4641df34df0c34fc64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\io.reactivex-rxandroid-1.1.0_3a73c38c74241cefadb83fed48364ac82ca88b8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.5\ece7b5d0870e66d8226dab6dcf47a2b12afff061\rxjava-1.1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\rxjava-1.1.5_173c5dcaf3e54abd82f2dc7e84d1f071e5781396.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.6\a2e0fb833ba928689fb8b8d9cc92a81298da7c37\dagger-2.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a2e0fb833ba928689fb8b8d9cc92a81298da7c37">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\dagger-2.6_40db0b037383050fbf77f4ddcba3f08e5cd53673.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\javax.inject-1_df772a3240e6000abc06ae67049d4efb72968f8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\com.android.support-support-vector-drawable-24.1.0_eaa78f4d552eddad0a3eee479c6e0ff6b646809f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\com.android.support-support-v4-24.1.0_9a4c7185de926b9ef0815946996f057bed319b20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.tbruyelle.rxpermissions\rxpermissions\0.7.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="50fd38504119ea609c269abf98af75fb14e82f2c">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\com.tbruyelle.rxpermissions-rxpermissions-0.7.0_3e5c30b0c87eacaf322600f1ebb48d9a39aec73e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\okhttp-3.3.0_c150d0a7d38107f50b9d8dbf6049aec66a1d380f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\glide-3.7.0_936669f02f96a0a6427b09d9d38a152b51092f43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\com.jakewharton-butterknife-8.4.0_0a87e6dba68be85815a4943a0d730eebc5fbe447.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\gson-2.7_cc825027dbf12ddde68495bab75c232d705db31c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\converter-gson-2.1.0_2981a9ac868e94f1a6cff8381eabc0dffc20403b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\adapter-rxjava-2.1.0_e5f936857360646fa729e8969b5fef3d2db80da4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\converter-gson-2.1.0_2981a9ac868e94f1a6cff8381eabc0dffc20403b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\com.android.support-cardview-v7-23.3.0_abc467d0aa36720c51a0972a49ce5f7d85ac8725.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.jakewharton.timber\timber\4.1.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aba9abcfe7ce6d935add115f5ce20254b037d583">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\com.jakewharton.timber-timber-4.1.2_9dcbbcffc62db1ab986c3d07e08712818e44a687.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9340c4f95a4e3916c9ad70296e24576743743712">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\com.android.support-appcompat-v7-24.1.0_fc9b82e19e2ffb8994fbfbf71da27de4193ffd1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\libs\internal_impl-24.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\internal_impl-24.1.0_7588563c8690f2aabba12b0bbae5f535205f6de6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\com.android.support-design-24.0.0_b95c3cf75dec041fdc952c2c585ed7d30f82e0cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\com.android.support-support-vector-drawable-24.1.0_eaa78f4d552eddad0a3eee479c6e0ff6b646809f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\com.android.support-recyclerview-v7-24.0.0_58e7c8cc4877a57d3abe2eae0506488fb5c08b95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-analyzer\1.4-beta2\449777cd466ac0a16f7e8d0dc508e70e2cdd13a9\leakcanary-analyzer-1.4-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="449777cd466ac0a16f7e8d0dc508e70e2cdd13a9">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\leakcanary-analyzer-1.4-beta2_77a2641c1a9b24874e9cb56489dbcc29cd208984.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\com.android.support-animated-vector-drawable-24.1.0_80d7437bba0c5f9c637d2f0aa89929b72fc467e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\retrofit-2.1.0_cfb140f0cab0d3ffad1399636a7d39e4d2dddefb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.supercwn.superrecycleview\superlibrary\1.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="20ca1e4a60ef444423a2af441bea6016d2dcfb07">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\com.supercwn.superrecycleview-superlibrary-1.2.0_0d0a36b8d2ca0b7fe4c8186229e0fb3e1ee21747.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\longlongago\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.0\support-annotations-24.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\support-annotations-24.1.0_b7d0469280955cea204cd5e37aae467c24180462.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.5\ece7b5d0870e66d8226dab6dcf47a2b12afff061\rxjava-1.1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\rxjava-1.1.5_173c5dcaf3e54abd82f2dc7e84d1f071e5781396.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-analyzer\1.4-beta2\449777cd466ac0a16f7e8d0dc508e70e2cdd13a9\leakcanary-analyzer-1.4-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="449777cd466ac0a16f7e8d0dc508e70e2cdd13a9">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\leakcanary-analyzer-1.4-beta2_77a2641c1a9b24874e9cb56489dbcc29cd208984.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\com.android.support-animated-vector-drawable-24.1.0_80d7437bba0c5f9c637d2f0aa89929b72fc467e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\glide-3.7.0_936669f02f96a0a6427b09d9d38a152b51092f43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\gson-2.7_cc825027dbf12ddde68495bab75c232d705db31c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\io.reactivex-rxandroid-1.1.0_3a73c38c74241cefadb83fed48364ac82ca88b8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.zhy\autolayout\1.4.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d673237219d38232f420adfd2e4ca61763c40f64">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\com.zhy-autolayout-1.4.1_a7994a11e9d6a5153577588d050c226869543e67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\okio-1.8.0_cfbc875d0624640ef799ed4641df34df0c34fc64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\com.jakewharton-butterknife-8.4.0_0a87e6dba68be85815a4943a0d730eebc5fbe447.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\butterknife-annotations-8.4.0_3dc1ecd2bcaceeab0973b8c5e93d2131838a6341.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.tbruyelle.rxpermissions\rxpermissions\0.7.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="50fd38504119ea609c269abf98af75fb14e82f2c">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\com.tbruyelle.rxpermissions-rxpermissions-0.7.0_3e5c30b0c87eacaf322600f1ebb48d9a39aec73e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\okhttp-3.3.0_c150d0a7d38107f50b9d8dbf6049aec66a1d380f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.4-beta2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c8472f8e10502af60d0f63ea11eed68bdf690c2">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\com.squareup.leakcanary-leakcanary-android-1.4-beta2_dd8a8a6826dbc67e5f683d6c03c2df2d604dbbda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.6\a2e0fb833ba928689fb8b8d9cc92a81298da7c37\dagger-2.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a2e0fb833ba928689fb8b8d9cc92a81298da7c37">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\dagger-2.6_40db0b037383050fbf77f4ddcba3f08e5cd53673.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.4-beta2\6a920fb0d14e5e3b36e37cf33b1eeef2bcce4c92\leakcanary-watcher-1.4-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6a920fb0d14e5e3b36e37cf33b1eeef2bcce4c92">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\leakcanary-watcher-1.4-beta2_48e67ae1a663b16f094fdaa28db240efaf8bca2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tianwenjuFile\BaseProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\com.android.support-support-v4-24.1.0_9a4c7185de926b9ef0815946996f057bed319b20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v.wenju.tian\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="D:\tianwenjuFile\BaseProject\app\build\intermediates\pre-dexed\mock\debug\adapter-rxjava-2.1.0_e5f936857360646fa729e8969b5fef3d2db80da4.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "F:\\OSGitProject\\Tea99-B\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]

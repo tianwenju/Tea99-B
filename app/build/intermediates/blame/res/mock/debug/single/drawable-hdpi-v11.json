@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-hdpi-v11\\leak_canary_notification.png",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\drawable-hdpi-v11\\leak_canary_notification.png"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-hdpi-v11\\leak_canary_notification.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\20325c9e269b781ee3de7ff70da361801a4e201d\\output\\res\\drawable-hdpi-v11\\leak_canary_notification.png"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-hdpi-v11\\leak_canary_notification.png",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\drawable-hdpi-v11\\leak_canary_notification.png"
+    }
+]

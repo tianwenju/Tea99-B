@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-anydpi-v21\\ic_menu_camera.xml",
+        "source": "F:\\OSGitProject\\Tea99-B\\app\\build\\generated\\res\\pngs\\mock\\debug\\drawable-anydpi-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-anydpi-v21\\ic_menu_camera.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\generated\\res\\pngs\\mock\\debug\\drawable-anydpi-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-anydpi-v21\\viewstatus_loading_faile_image_bg.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\BaseProject\\commonlibs\\unspecified\\res\\drawable-anydpi-v21\\viewstatus_loading_faile_image_bg.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-anydpi-v21\\ic_menu_camera.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\generated\\res\\pngs\\mock\\debug\\drawable-anydpi-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-anydpi-v21\\ic_menu_slideshow.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\generated\\res\\pngs\\mock\\debug\\drawable-anydpi-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-anydpi-v21\\viewstatus_loading_faile_image_bg.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\OrientalFoodApp\\commonlibs\\unspecified\\res\\drawable-anydpi-v21\\viewstatus_loading_faile_image_bg.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-anydpi-v21\\viewstatus_loading_faile_image_bg.xml",
+        "source": "F:\\OSGitProject\\Tea99-B\\commonlibs\\build\\intermediates\\bundles\\default\\res\\drawable-anydpi-v21\\viewstatus_loading_faile_image_bg.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-anydpi-v21\\ic_menu_gallery.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\generated\\res\\pngs\\mock\\debug\\drawable-anydpi-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-anydpi-v21\\viewstatus_no_data_bg.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\BaseProject\\commonlibs\\unspecified\\res\\drawable-anydpi-v21\\viewstatus_no_data_bg.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-anydpi-v21\\ic_menu_manage.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\generated\\res\\pngs\\mock\\debug\\drawable-anydpi-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-anydpi-v21\\viewstatus_no_network_img_bg.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\BaseProject\\commonlibs\\unspecified\\res\\drawable-anydpi-v21\\viewstatus_no_network_img_bg.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-anydpi-v21\\viewstatus_no_network_img_bg.xml",
+        "source": "F:\\OSGitProject\\Tea99-B\\commonlibs\\build\\intermediates\\bundles\\default\\res\\drawable-anydpi-v21\\viewstatus_no_network_img_bg.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-anydpi-v21\\ic_menu_slideshow.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\generated\\res\\pngs\\mock\\debug\\drawable-anydpi-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-anydpi-v21\\ic_menu_manage.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\generated\\res\\pngs\\mock\\debug\\drawable-anydpi-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-anydpi-v21\\ic_menu_slideshow.xml",
+        "source": "F:\\OSGitProject\\Tea99-B\\app\\build\\generated\\res\\pngs\\mock\\debug\\drawable-anydpi-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-anydpi-v21\\ic_menu_share.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\generated\\res\\pngs\\mock\\debug\\drawable-anydpi-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-anydpi-v21\\ic_menu_share.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\generated\\res\\pngs\\mock\\debug\\drawable-anydpi-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-anydpi-v21\\viewstatus_no_data_bg.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\OrientalFoodApp\\commonlibs\\unspecified\\res\\drawable-anydpi-v21\\viewstatus_no_data_bg.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-anydpi-v21\\ic_menu_gallery.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\generated\\res\\pngs\\mock\\debug\\drawable-anydpi-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-anydpi-v21\\ic_menu_send.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\generated\\res\\pngs\\mock\\debug\\drawable-anydpi-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-anydpi-v21\\ic_menu_send.xml",
+        "source": "F:\\OSGitProject\\Tea99-B\\app\\build\\generated\\res\\pngs\\mock\\debug\\drawable-anydpi-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-anydpi-v21\\ic_menu_send.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\generated\\res\\pngs\\mock\\debug\\drawable-anydpi-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-anydpi-v21\\ic_menu_manage.xml",
+        "source": "F:\\OSGitProject\\Tea99-B\\app\\build\\generated\\res\\pngs\\mock\\debug\\drawable-anydpi-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-anydpi-v21\\viewstatus_no_network_img_bg.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\OrientalFoodApp\\commonlibs\\unspecified\\res\\drawable-anydpi-v21\\viewstatus_no_network_img_bg.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-anydpi-v21\\ic_menu_gallery.xml",
+        "source": "F:\\OSGitProject\\Tea99-B\\app\\build\\generated\\res\\pngs\\mock\\debug\\drawable-anydpi-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-anydpi-v21\\viewstatus_no_data_bg.xml",
+        "source": "F:\\OSGitProject\\Tea99-B\\commonlibs\\build\\intermediates\\bundles\\default\\res\\drawable-anydpi-v21\\viewstatus_no_data_bg.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-anydpi-v21\\ic_menu_share.xml",
+        "source": "F:\\OSGitProject\\Tea99-B\\app\\build\\generated\\res\\pngs\\mock\\debug\\drawable-anydpi-v21\\ic_menu_share.xml"
+    }
+]

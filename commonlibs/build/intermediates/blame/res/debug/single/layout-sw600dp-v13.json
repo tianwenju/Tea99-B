@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\commonlibs\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\commonlibs\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\commonlibs\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "D:\\tianwenjuFile\\BaseProject\\commonlibs\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\commonlibs\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\df41a8e82b2dbf577706c6873f80ff5167755f85\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    }
+]

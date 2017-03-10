@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-ldpi-v4\\viewstatus_no_data_bg.png",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\BaseProject\\commonlibs\\unspecified\\res\\drawable-ldpi-v4\\viewstatus_no_data_bg.png"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-ldpi-v4\\viewstatus_no_network_img_bg.png",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\OrientalFoodApp\\commonlibs\\unspecified\\res\\drawable-ldpi-v4\\viewstatus_no_network_img_bg.png"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-ldpi-v4\\viewstatus_no_data_bg.png",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\OrientalFoodApp\\commonlibs\\unspecified\\res\\drawable-ldpi-v4\\viewstatus_no_data_bg.png"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-ldpi-v4\\viewstatus_no_network_img_bg.png",
+        "source": "F:\\OSGitProject\\Tea99-B\\commonlibs\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\viewstatus_no_network_img_bg.png"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-ldpi-v4\\viewstatus_no_data_bg.png",
+        "source": "F:\\OSGitProject\\Tea99-B\\commonlibs\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\viewstatus_no_data_bg.png"
+    },
+    {
+        "merged": "F:\\OSGitProject\\Tea99-B\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-ldpi-v4\\viewstatus_loading_faile_image_bg.png",
+        "source": "F:\\OSGitProject\\Tea99-B\\commonlibs\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\viewstatus_loading_faile_image_bg.png"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-ldpi-v4\\viewstatus_no_network_img_bg.png",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\BaseProject\\commonlibs\\unspecified\\res\\drawable-ldpi-v4\\viewstatus_no_network_img_bg.png"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-ldpi-v4\\viewstatus_loading_faile_image_bg.png",
+        "source": "D:\\tianwenjuFile\\OrientalFoodApp\\app\\build\\intermediates\\exploded-aar\\OrientalFoodApp\\commonlibs\\unspecified\\res\\drawable-ldpi-v4\\viewstatus_loading_faile_image_bg.png"
+    },
+    {
+        "merged": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\res\\merged\\mock\\debug\\drawable-ldpi-v4\\viewstatus_loading_faile_image_bg.png",
+        "source": "D:\\tianwenjuFile\\BaseProject\\app\\build\\intermediates\\exploded-aar\\BaseProject\\commonlibs\\unspecified\\res\\drawable-ldpi-v4\\viewstatus_loading_faile_image_bg.png"
+    }
+]
